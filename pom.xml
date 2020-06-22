@@ -33,6 +33,12 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.0.0-alpha-5</version>
+        </dependency>
+
 
     </dependencies>
 </project>
